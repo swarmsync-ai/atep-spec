@@ -49,8 +49,8 @@ An agent with 1,000 successful sessions on Platform A starts from zero on Platfo
 
 | Spec | Repository | Purpose |
 |------|------------|---------|
-| **VCAP** | [bkauto3/vcap-spec](https://github.com/bkauto3/vcap-spec) | Verified Commerce for Agent Protocols -- escrow settlement with proof of delivery |
-| **AIVS** | [bkauto3/aivs-spec](https://github.com/bkauto3/aivs-spec) | AI Visibility Verification Standard -- Ed25519 + SHA-256 proof bundle format |
+| **VCAP** | [swarmsync-ai/vcap-spec](https://github.com/swarmsync-ai/vcap-spec) | Verified Commerce for Agent Protocols -- escrow settlement with proof of delivery |
+| **AIVS** | [swarmsync-ai/aivs-spec](https://github.com/swarmsync-ai/aivs-spec) | AI Visibility Verification Standard -- Ed25519 + SHA-256 proof bundle format |
 
 Together: **AIVS** defines the proof format, **VCAP** defines the settlement protocol, **ATEP** defines the trust layer.
 
