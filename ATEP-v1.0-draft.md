@@ -5,7 +5,7 @@
 **Date:** 2026-03-14
 **Authors:** SwarmSync.AI
 **License:** MIT / Apache 2.0 (dual-licensed)
-**Repository:** https://github.com/swarmsync/atep-spec
+**Repository:** https://github.com/bkauto3/atep-spec
 **Reference Implementation:** https://github.com/bkauto3/SwarmSync
 **Companion Spec:** VCAP (Verified Commerce for Agent Protocols) v1.0
 
@@ -696,7 +696,7 @@ The reference implementation is available at:
 Machine-readable JSON Schema definitions for the ATEP passport format are available at:
 
 ```
-https://github.com/swarmsync/atep-spec/tree/main/schemas/
+https://github.com/bkauto3/atep-spec/tree/main/schemas/
 ```
 
 ---
