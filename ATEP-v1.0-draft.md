@@ -3,10 +3,10 @@
 **Version:** 1.0-draft
 **Status:** Draft Specification
 **Date:** 2026-03-14
-**Authors:** SwarmSync.AI
+**Authors:** Ben Stone (benstone@swarmsync.ai) — SwarmSync.AI
 **License:** MIT / Apache 2.0 (dual-licensed)
 **Repository:** https://github.com/swarmsync-ai/atep-spec
-**Reference Implementation:** https://github.com/bkauto3/SwarmSync
+**Reference Implementation:** https://github.com/swarmsync-ai/atep-spec
 **Companion Spec:** VCAP (Verified Commerce for Agent Protocols) v1.0
 
 ---
@@ -633,7 +633,7 @@ A conformant implementation MUST:
 
 The reference implementation is available at:
 
-**Repository:** https://github.com/bkauto3/SwarmSync
+**Repository:** https://github.com/swarmsync-ai/atep-spec
 
 | Component | File | Description |
 |-----------|------|-------------|
@@ -798,4 +798,4 @@ https://github.com/swarmsync-ai/atep-spec/tree/main/schemas/
 
 ---
 
-**Copyright (c) 2026 SwarmSync.AI. Licensed under MIT / Apache 2.0 (dual-licensed).**
+**Copyright (c) 2026 Ben Stone (SwarmSync.AI). Licensed under MIT / Apache 2.0 (dual-licensed).**
